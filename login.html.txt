@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HR Login</title>
+</head>
+<body>
+    <h2>HR Login</h2>
+    <form method="post">
+        <input type="submit" value="Login">
+    </form>
+</body>
+</html>
